@@ -9,5 +9,6 @@ public class CreateOrgTEst {
 	public void createtest()
 	{
 		System.out.println("--- Org createed --");
+		System.out.println("--- Org createed --");
 	}
 }
